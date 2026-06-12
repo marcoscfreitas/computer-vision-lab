@@ -2,7 +2,6 @@
 
 Repositório dedicado a estudos, experimentos e protótipos em Visão Computacional, com foco em detecção de objetos utilizando YOLO, técnicas de rastreamento e aplicações em Edge AI.
 
----
 
 ## Objetivo
 
@@ -18,7 +17,6 @@ Este repositório tem como finalidade o aprendizado e experimentação das segui
 
 O objetivo final é evoluir de experimentos básicos até aplicações reais em ambientes industriais, como detecção de pessoas e cargas em sistemas de guindaste.
 
----
 
 ## Tópicos estudados
 
@@ -33,7 +31,6 @@ O objetivo final é evoluir de experimentos básicos até aplicações reais em 
 - Rastreamento de múltiplos objetos (SORT / DeepSORT / ByteTrack)
 - Deploy em dispositivos embarcados (Jetson / TensorRT)
 
----
 
 ## Tecnologias
 
@@ -44,5 +41,3 @@ O objetivo final é evoluir de experimentos básicos até aplicações reais em 
 - Google Colab
 - Jupyter Notebook
 - NVIDIA Jetson
-
----
