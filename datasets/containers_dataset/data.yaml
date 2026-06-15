@@ -1,0 +1,13 @@
+names:
+- container
+nc: 1
+path: datasets/containers_dataset
+roboflow:
+  license: CC BY 4.0
+  project: containers-detection-db0c2
+  url: https://universe.roboflow.com/one14-intelligence/containers-detection-db0c2/dataset/1
+  version: 1
+  workspace: one14-intelligence
+test: ../test/images
+train: train/images
+val: valid/images
